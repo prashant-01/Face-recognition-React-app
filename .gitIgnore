@@ -1,8 +1,8 @@
-/face-find/node_modules
-/face-find/.parcel-cache
-/face-find/dist
-/face-find/.env
-/face-find/public
+/client/node_modules
+/client/.parcel-cache
+/client/dist
+/client/.env
+/client/public
 
 /server/node_modules
 /server/.env
